@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CgqOA642KV9z1JMXQtmFqf9L7YHLOhCTgdQZaX5uNU4=",
+  "Source": "ElasticSearchPOC",
+  "BasePath": "_content/ElasticSearchPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
