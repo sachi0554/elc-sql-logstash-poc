@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sachidanand\\source\\repos\\ElasticSearchPOC\\ElasticSearchPOC\\ElasticSearchPOC.csproj": {}
+    "C:\\Users\\sachidanand\\Documents\\WorkSpace\\docker\\mssql-elasticsearch-poc\\ElasticSearchRestApi\\ElasticSearchPOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sachidanand\\source\\repos\\ElasticSearchPOC\\ElasticSearchPOC\\ElasticSearchPOC.csproj": {
+    "C:\\Users\\sachidanand\\Documents\\WorkSpace\\docker\\mssql-elasticsearch-poc\\ElasticSearchRestApi\\ElasticSearchPOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sachidanand\\source\\repos\\ElasticSearchPOC\\ElasticSearchPOC\\ElasticSearchPOC.csproj",
+        "projectUniqueName": "C:\\Users\\sachidanand\\Documents\\WorkSpace\\docker\\mssql-elasticsearch-poc\\ElasticSearchRestApi\\ElasticSearchPOC.csproj",
         "projectName": "ElasticSearchPOC",
-        "projectPath": "C:\\Users\\sachidanand\\source\\repos\\ElasticSearchPOC\\ElasticSearchPOC\\ElasticSearchPOC.csproj",
+        "projectPath": "C:\\Users\\sachidanand\\Documents\\WorkSpace\\docker\\mssql-elasticsearch-poc\\ElasticSearchRestApi\\ElasticSearchPOC.csproj",
         "packagesPath": "C:\\Users\\sachidanand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sachidanand\\source\\repos\\ElasticSearchPOC\\ElasticSearchPOC\\obj\\",
+        "outputPath": "C:\\Users\\sachidanand\\Documents\\WorkSpace\\docker\\mssql-elasticsearch-poc\\ElasticSearchRestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sachidanand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\sachidanand\\Documents\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/gbutler325/3a3a1a3e-2925-4f8b-ac24-d470dd173ece/_packaging/USCFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

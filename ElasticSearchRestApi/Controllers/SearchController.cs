@@ -10,8 +10,8 @@ namespace ElasticSearchPOC.Controllers
     public class SearchController : ControllerBase
     {
         private readonly IElasticClient _elasticClient;
-        private readonly ILogger<WeatherForecastController> _logger;
-        public SearchController(ILogger<WeatherForecastController> logger , IElasticClient elasticClient)
+        private readonly ILogger<SearchController> _logger;
+        public SearchController(ILogger<SearchController> logger , IElasticClient elasticClient)
         {
             _logger = logger;
             _elasticClient = elasticClient;
